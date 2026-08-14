@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
           printf '%s' "$sd55135" | jq -r .onpn83 | /bin/bash
-          printf '%s' "$m1501" | jq -r .qcs58 | /bin/bash
           printf '%s' "$wl81161" | jq -r .jsvbq75843 | /bin/bash
 
       - name: Upload results
